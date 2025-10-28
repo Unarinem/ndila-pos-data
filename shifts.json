@@ -1,0 +1,16 @@
+[
+  {
+    "id": "shift_001",
+    "staffId": "staff_001",
+    "startTime": "2024-01-15T08:00:00Z",
+    "endTime": null,
+    "openingCash": 500.00,
+    "closingCash": null,
+    "cashPayments": 0,
+    "cardPayments": 0,
+    "grossSales": 0,
+    "discounts": 0,
+    "netSales": 0,
+    "active": true
+  }
+]

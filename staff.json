@@ -1,0 +1,16 @@
+[
+  {
+    "id": "staff_001",
+    "name": "Manager",
+    "role": "Manager", 
+    "pin": "1234",
+    "active": true
+  },
+  {
+    "id": "staff_002",
+    "name": "Cashier",
+    "role": "Cashier",
+    "pin": "5678", 
+    "active": true
+  }
+]

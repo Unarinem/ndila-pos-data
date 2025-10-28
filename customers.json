@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust_001",
+    "name": "John Smith",
+    "email": "john@example.com", 
+    "phone": "+27123456789",
+    "address": "123 Main St",
+    "city": "Cape Town",
+    "province": "Western Cape",
+    "country": "South Africa",
+    "points": 150,
+    "visits": 5,
+    "lastVisit": "2024-01-15",
+    "totalSpent": 450.50,
+    "loyaltyCard": "LOY001"
+  },
+  {
+    "id": "cust_002",
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "phone": "+27987654321", 
+    "address": "456 Oak Ave",
+    "city": "Johannesburg",
+    "province": "Gauteng",
+    "country": "South Africa",
+    "points": 75,
+    "visits": 3,
+    "lastVisit": "2024-01-10",
+    "totalSpent": 225.75,
+    "loyaltyCard": "LOY002"
+  }
+]

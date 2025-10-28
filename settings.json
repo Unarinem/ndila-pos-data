@@ -1,0 +1,19 @@
+{
+  "companyName": "Tuesday Solutions",
+  "color": "#009999",
+  "logoData": null,
+  "pointsRate": 10,
+  "receiptFooter": "Powered by Tuesday Solutions",
+  "receiptPrefix": "RCPT-",
+  "scannerEngine": "quagga",
+  "redeemRate": 1,
+  "categories": ["General", "Electronics", "Personal Care", "Beverages", "Snacks", "Food"],
+  "dataAdapter": "github",
+  "github": {
+    "owner": "Unarinem",
+    "repo": "ndila-pos-data", 
+    "branch": "main",
+    "basepath": "data",
+    "token": ""
+  }
+}

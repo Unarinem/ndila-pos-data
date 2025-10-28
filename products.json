@@ -1,0 +1,41 @@
+[
+  {
+    "id": "prod_001",
+    "name": "Coca Cola 500ml",
+    "price": 15.99,
+    "stock": 50,
+    "barcode": "6001234567890",
+    "category": "Beverages",
+    "image": null,
+    "color": "#ff0000",
+    "customerPrice": 14.99,
+    "unit": "each",
+    "sku": "COCA-500"
+  },
+  {
+    "id": "prod_002", 
+    "name": "Chips Salted",
+    "price": 12.50,
+    "stock": 30,
+    "barcode": "6001234567891",
+    "category": "Snacks",
+    "image": null,
+    "color": "#ffa500",
+    "customerPrice": 11.50,
+    "unit": "each",
+    "sku": "CHIPS-SALT"
+  },
+  {
+    "id": "prod_003",
+    "name": "Bread White",
+    "price": 8.99,
+    "stock": 20,
+    "barcode": "6001234567892", 
+    "category": "Food",
+    "image": null,
+    "color": "#ffffff",
+    "customerPrice": 8.50,
+    "unit": "each",
+    "sku": "BREAD-WHT"
+  }
+]
